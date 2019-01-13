@@ -1,4 +1,4 @@
-package labs_advanced.day_1.assignment_2;
+package labs_advanced.day_1.assignment_02;
 
 public class EmployeeGrade {
     public static void main(String[] args) {

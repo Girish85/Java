@@ -1,4 +1,4 @@
-package labs_advanced.day_1.assignment_5;
+package labs_advanced.day_1.assignment_05;
 
 import java.util.Random;
 

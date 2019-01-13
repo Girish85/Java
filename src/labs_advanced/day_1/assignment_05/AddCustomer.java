@@ -1,4 +1,4 @@
-package labs_advanced.day_1.assignment_5;
+package labs_advanced.day_1.assignment_05;
 
 public class AddCustomer {
     public static void main(String[] args) {

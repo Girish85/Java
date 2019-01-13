@@ -1,4 +1,4 @@
-package labs_advanced.day_1.assignment_4;
+package labs_advanced.day_1.assignment_04;
 
 public class Customer {
     private String customerId;
