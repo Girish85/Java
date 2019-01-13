@@ -15,28 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleThree.java">
+        <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/EmployeeGrade.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="179">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/SwitchCase.java">
+        <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/Wells.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleOne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="96" lean-forward="true" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+            <state relative-caret-position="170">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -83,6 +74,27 @@
         <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleTwo.java" />
         <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleThree.java" />
         <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/SwitchCase.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_1/assignment.txt" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_2/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_3/EmployeeFeedback.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_4/Customer.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/AddCustomer.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/BankCustomer.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_6/AddCustomer.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_7/solution.txt" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/d/Wells.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/EmployeeGrade.java" />
+        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/Wells.java" />
       </list>
     </option>
   </component>
@@ -108,79 +120,6 @@
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_2" type="462c0819:PsiDirectoryNode" />
-              <item name="self_review" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,11 +131,20 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547358592171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547423054657" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_11" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\d" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\c" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\b" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\a" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -210,13 +158,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwitchCase">
-    <configuration name="Class1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_2.assignment_8.Class1" />
+  <component name="RunManager" selected="Application.Wells">
+    <configuration name="Wells (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs_advanced.day_1.assignment_10.a.Wells" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_2.assignment_8.*" />
+          <option name="PATTERN" value="labs_advanced.day_1.assignment_10.a.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_2.self_review.ExampleThree" />
+    <configuration name="Wells (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs_advanced.day_1.assignment_10.b.Wells" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_2.self_review.*" />
+          <option name="PATTERN" value="labs_advanced.day_1.assignment_10.b.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_2.self_review.ExampleTwo" />
+    <configuration name="Wells (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs_advanced.day_1.assignment_10.c.Wells" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_2.self_review.*" />
+          <option name="PATTERN" value="labs_advanced.day_1.assignment_10.c.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_2.assignment_9.Student" />
+    <configuration name="Wells (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs_advanced.day_1.assignment_10.d.Wells" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_2.assignment_9.*" />
+          <option name="PATTERN" value="labs_advanced.day_1.assignment_10.d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_2.self_review.SwitchCase" />
+    <configuration name="Wells" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs_advanced.day_1.assignment_11.Wells" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_2.self_review.*" />
+          <option name="PATTERN" value="labs_advanced.day_1.assignment_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -277,19 +225,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Class1" />
-      <item itemvalue="Application.Student" />
-      <item itemvalue="Application.ExampleTwo" />
-      <item itemvalue="Application.ExampleThree" />
-      <item itemvalue="Application.SwitchCase" />
+      <item itemvalue="Application.Wells (2)" />
+      <item itemvalue="Application.Wells (3)" />
+      <item itemvalue="Application.Wells (4)" />
+      <item itemvalue="Application.Wells (5)" />
+      <item itemvalue="Application.Wells" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.ExampleThree" />
-        <item itemvalue="Application.ExampleTwo" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.Class1" />
+        <item itemvalue="Application.Wells" />
+        <item itemvalue="Application.Wells (5)" />
+        <item itemvalue="Application.Wells (4)" />
+        <item itemvalue="Application.Wells (3)" />
+        <item itemvalue="Application.Wells (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -308,16 +256,17 @@
       <workItem from="1547334839614" duration="497000" />
       <workItem from="1547335613967" duration="113000" />
       <workItem from="1547340856511" duration="16158000" />
+      <workItem from="1547399658094" duration="14092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21665000" />
+    <option name="totallyTimeSpent" value="35757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.26308724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -513,19 +462,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/StaticDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/StaticDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/lab_basic/day_1/assignment_6/Operator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -547,24 +484,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="96" lean-forward="true" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_1/assignment.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="82" selection-start-column="82" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_2/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_3/EmployeeFeedback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_4/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/AddCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/BankCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_6/BankCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_6/AddCustomer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="119" lean-forward="true" selection-start-line="25" selection-start-column="119" selection-end-line="25" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_7/solution.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/d/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/d/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="102" selection-start-line="4" selection-start-column="102" selection-end-line="4" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="84" selection-start-line="12" selection-start-column="84" selection-end-line="12" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/EmployeeGrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_11/Wells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
