@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a68e3f14-41f3-4691-9f85-2eb4ec340f47" name="Default Changelist" comment="" />
+    <list default="true" id="a68e3f14-41f3-4691-9f85-2eb4ec340f47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/lab_basic/day_2/assignment_7/PassByVal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/lab_basic/day_2/assignment_7/PassByVal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,34 +13,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Java$Starter.ic" NAME="Starter Coverage Results" MODIFIED="1547501252301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab_basic.day_4.assignment_1.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-              <folding>
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/MethodOverload.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="82" selection-start-line="29" selection-start-column="82" selection-end-line="29" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,39 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_2/ContinueControl.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_3/SwitchCase.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_4/Student.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_4/CourseManagement.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_5/DefaultConstructor.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_5/Student.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_6/UserType.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/Student.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_8/Class1.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_9/Student.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/TypeCasting.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/Demo.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleOne.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/StaticDemo.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleTwo.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleThree.java" />
-        <option value="$PROJECT_DIR$/src/lab_basic/day_2/self_review/SwitchCase.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_1/assignment.txt" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_2/EmployeeGrade.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_3/EmployeeFeedback.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_4/Customer.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/AddCustomer.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_5/BankCustomer.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_6/AddCustomer.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_7/solution.txt" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/EmployeeGrade.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_8/Wells.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/Wells.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_9/EmployeeGrade.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/EmployeeGrade.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/Wells.java" />
-        <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/Wells.java" />
         <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/EmployeeGrade.java" />
         <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/EmployeeGrade.java" />
         <option value="$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/Wells.java" />
@@ -103,6 +56,39 @@
         <option value="$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/Student.java" />
         <option value="$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/UserEnter.java" />
         <option value="$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/MethodOverload.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_3/assignment_2/DemoArray.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Hostelite.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Starter.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Hostelite.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Starter.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Starter.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Hostelite.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/CourseReg.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_1/CourseReg.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/CourseRegistration.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/CourseReg.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/PostGradStudent.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/Starter.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/DynamicEx.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/DayScholar.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/Starter.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/Student.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/Hostelite.java" />
+        <option value="$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/DayScholar.java" />
       </list>
     </option>
   </component>
@@ -121,6 +107,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,36 +132,6 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_2" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_2" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
               <item name="day_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -181,51 +139,42 @@
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lab_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="day_3" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_8" type="462c0819:PsiDirectoryNode" />
+              <item name="day_4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="labs_advanced" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="labs_advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="day_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547440970391" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547531706581" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/demoone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lab_basic.day_4.assignment_1" />
       <recent name="lab_basic.day_3.assignment_7" />
       <recent name="lab_basic.day_3.assignment_4" />
       <recent name="lab_basic.day_3.assignment_01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\lab_basic\day_4\assignment_8" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\lab_basic\day_4\assignment_7" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\lab_basic\day_4\assignment_3" />
+      <recent name="C:\Users\GIRISH\Desktop\Java\src\lab_basic\day_4\assignment_2" />
       <recent name="C:\Users\GIRISH\Desktop\Java\src\lab_basic\day_3\assignment_8" />
-      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_11" />
-      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\d" />
-      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\c" />
-      <recent name="C:\Users\GIRISH\Desktop\Java\src\labs_advanced\day_1\assignment_10\b" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -240,13 +189,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverload">
-    <configuration name="JavaDoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_3.assignment_5.JavaDoc" />
+  <component name="RunManager" selected="Application.Starter (1)">
+    <configuration name="CourseReg (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_basic.day_4.assignment_4.problem_2.CourseReg" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_3.assignment_5.*" />
+          <option name="PATTERN" value="lab_basic.day_4.assignment_4.problem_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,12 +203,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_3.assignment_8.MethodOverload" />
+    <configuration name="DynamicEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_basic.day_4.assignment_6.DynamicEx" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_3.assignment_8.*" />
+          <option name="PATTERN" value="lab_basic.day_4.assignment_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Starter (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_basic.day_4.assignment_8.Starter" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_basic.day_4.assignment_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Starter (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab_basic.day_4.assignment_5.Starter" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab_basic.day_4.assignment_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,37 +243,11 @@
       </method>
     </configuration>
     <configuration name="Starter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_3.assignment_4.Starter" />
+      <option name="MAIN_CLASS_NAME" value="lab_basic.day_4.assignment_7.Starter" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab_basic.day_3.assignment_4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserEnter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_3.assignment_7.UserEnter" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_basic.day_3.assignment_7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab_basic.day_3.assignment_6.UserInput" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab_basic.day_3.assignment_6.*" />
+          <option name="PATTERN" value="lab_basic.day_4.assignment_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,19 +256,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CourseReg (1)" />
+      <item itemvalue="Application.Starter (3)" />
+      <item itemvalue="Application.DynamicEx" />
       <item itemvalue="Application.Starter" />
-      <item itemvalue="Application.JavaDoc" />
-      <item itemvalue="Application.UserInput" />
-      <item itemvalue="Application.UserEnter" />
-      <item itemvalue="Application.MethodOverload" />
+      <item itemvalue="Application.Starter (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverload" />
-        <item itemvalue="Application.UserEnter" />
-        <item itemvalue="Application.UserInput" />
-        <item itemvalue="Application.JavaDoc" />
+        <item itemvalue="Application.Starter (1)" />
         <item itemvalue="Application.Starter" />
+        <item itemvalue="Application.DynamicEx" />
+        <item itemvalue="Application.Starter (3)" />
+        <item itemvalue="Application.CourseReg (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -338,17 +287,21 @@
       <workItem from="1547334839614" duration="497000" />
       <workItem from="1547335613967" duration="113000" />
       <workItem from="1547340856511" duration="16158000" />
-      <workItem from="1547399658094" duration="22619000" />
+      <workItem from="1547399658094" duration="23659000" />
+      <workItem from="1547446944215" duration="810000" />
+      <workItem from="1547480919556" duration="897000" />
+      <workItem from="1547498098053" duration="8361000" />
+      <workItem from="1547525840153" duration="5812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44284000" />
+    <option name="totallyTimeSpent" value="61204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.2671141" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858356" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -378,6 +331,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,253 +341,6 @@
     <option name="LIMIT_HISTORY" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_4/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_5/DefaultConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_6/UserType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_8/Class1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/TypeCasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/StaticDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_1/assignment_6/Operator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="89" selection-start-line="7" selection-start-column="89" selection-end-line="7" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_2/ContinueControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/SwitchCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/self_review/ExampleOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_01/assignment.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="82" selection-start-column="82" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_02/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="113" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_03/EmployeeFeedback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_04/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_05/AddCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_05/BankCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_06/BankCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_06/AddCustomer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="119" lean-forward="true" selection-start-line="25" selection-start-column="119" selection-end-line="25" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_07/solution.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_08/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_08/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_09/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/a/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_09/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/b/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/EmployeeGrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/c/Wells.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/labs_advanced/day_1/assignment_10/d/EmployeeGrade.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -680,13 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_3/assignment_2/DemoArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -758,14 +458,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_2/assignment_7/PassByVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_3/assignment_2/DemoArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab_basic/day_3/assignment_8/Student.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-          <folding>
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-          </folding>
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
@@ -773,6 +494,303 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="82" selection-start-line="29" selection-start-column="82" selection-end-line="29" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Hostelite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_1/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="11" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_2/Hostelite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Hostelite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="61" selection-start-line="31" selection-start-column="61" selection-end-line="31" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="63" lean-forward="true" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+          <folding>
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_1/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_1/CourseReg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_1/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/CourseReg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_4/problem_2/CourseRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/PostGradStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="127" selection-start-line="6" selection-start-column="127" selection-end-line="6" selection-end-column="127" />
+          <folding>
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_5/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/DynamicEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="144" selection-start-line="5" selection-start-column="144" selection-end-line="5" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_6/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="61" lean-forward="true" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+          <folding>
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_7/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_3/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/DayScholar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/Hostelite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab_basic/day_4/assignment_8/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#741#742#0" expanded="true" />
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1084#1085#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
