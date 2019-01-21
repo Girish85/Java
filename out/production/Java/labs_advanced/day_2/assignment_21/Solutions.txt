@@ -1,0 +1,5 @@
+21) Total 3 objects : Car, Tyre and String object.
+21.a) Total 6 objects : 4 Wheel objects, Vehicle object and a String object.
+21.b) After line 1, No objects are garbage collected.
+      After line 2, one Garbage object and one String object are garbage collected.
+      After line 3, one Garbage object and one String object are garbage collected.
